@@ -1,0 +1,5 @@
+
+// Example file content:
+// Enterprise Picard 100 10 250
+// Voyager Janeway 100 8 200
+// Defiant Sisko 80 10 25
